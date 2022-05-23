@@ -4,7 +4,7 @@ export default function карточка(){
   return (
     <div className="карточка">
       <header className="карточка-header">
-      карточка пук
+      карточка
       </header>
     </div>
   );
